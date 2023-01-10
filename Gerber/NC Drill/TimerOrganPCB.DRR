@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TimerOrganPCB.CMPcbDoc   1/10/2023  11:43:03 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TimerOrganPCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      25mil (0.635mm)                                           Round             2         PTH        0.20inch (5.00mm)
+T2      29mil (0.737mm)                                           Round             32        PTH        18.68inch (474.39mm)
+T3      30mil (0.762mm)                                           Round             14        PTH        10.13inch (257.20mm)
+T4      32mil (0.8mm)                                             Round             3         PTH        0.10inch (2.54mm)
+T5      32mil (0.813mm)                                           Round             8         PTH        0.95inch (24.13mm)
+T6      35mil (0.9mm)                                             Round             3         PTH        0.10inch (2.54mm)
+T7      39mil (1mm)                                               Round             29        PTH        12.19inch (309.61mm)
+T8      40mil (1.016mm)                                           Round             4         PTH        4.72inch (119.84mm)
+T9      40mil (1.02mm)                                            Round             2         PTH        0.10inch (2.54mm)
+T10     125mil (3.175mm)                                          Round             4         PTH        20.85inch (529.59mm)
+T11     90mil (2.286mm)                                           Round             3         NPTH       2.06inch (52.21mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              104
+
+Total Processing Time (hh:mm:ss) : 00:00:00
