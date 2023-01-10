@@ -1,4 +1,4 @@
-# 555_Timer_Organ_PCB
+# 555 Timer Piano PCB
 ![image](https://user-images.githubusercontent.com/82429124/211686518-48bed141-a600-4a02-8dd2-2c03b770cee7.png)
 
 - This project was created using Altium CircuitMaker. All design files including the 3D model can be viewed here: 
